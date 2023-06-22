@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif;
+}
+.nav-item a{
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+
+}
+.company{
+    font-size: 40px;
+    font-weight: 700;
+}
